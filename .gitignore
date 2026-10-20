@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Renviron
+.DS_Store
+__pycache__/
+*.rds
+*.RData
+*.log
+data/raw/
+data/cleaned/
+models/
